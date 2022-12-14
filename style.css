@@ -1,0 +1,21 @@
+
+ul{
+    list-style: none;
+}
+
+.container{
+    height: 400px;
+    width: 300px;
+    border: solid black;
+    position: absolute;
+    left: calc(50% - 150px);
+    top: calc(50% - 200px);
+    text-align: center;
+}
+
+
+.dropdown{
+    position: absolute;
+    left: 86px;
+    display: none;
+}
